@@ -1,0 +1,9 @@
+pandas
+geopandas
+osmnx
+matplotlib
+seaborn
+plotly
+streamlit
+jupyter
+notebook
